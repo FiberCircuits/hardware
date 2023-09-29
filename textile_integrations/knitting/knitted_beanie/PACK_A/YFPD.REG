@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\SHIMA SEIKI\Tamburello\KnitPaint\Form\YarnFeederPoint\]
+"MODE"="1"
+"WIDTH"="8"
+"COLOR1"="0"
+"COLOR2"="99"
+"COLOR3"="249"
+"COLOR4"="250"
+"COLOR5"="251"
+"COLOR6"="252"
+"COLOR7"="253"
+"COLOR8"="255"
+"ERASEMODE"="false"

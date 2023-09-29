@@ -1,0 +1,646 @@
+﻿<?xml version="1.0"?>
+<KnitProject IsRootNode="">
+	<Version>10102</Version>
+	<MachineInfo>
+		<Machine>56</Machine>
+		<Gage>15</Gage>
+		<BedSize>90</BedSize>
+		<BedType>0</BedType>
+		<Tandem>0</Tandem>
+		<KnitType>0</KnitType>
+		<PluginId>5</PluginId>
+		<Order>2</Order>
+		<NumCams>1</NumCams>
+		<KnitTop>1</KnitTop>
+		<KnitLast>1</KnitLast>
+		<Language>1</Language>
+		<PropertyFlag1>67108872</PropertyFlag1>
+		<CarrierOption>3</CarrierOption>
+		<SfjCamFlag>0</SfjCamFlag>
+		<MaxCarrier>10</MaxCarrier>
+		<Name>SWG091N2</Name>
+		<QusName>D:\Sysd\KnitPaint\Work\HAT\HAT.QFD</QusName>
+		<FirstNeedleType>0</FirstNeedleType>
+		<CarriageType>0</CarriageType>
+		<PropertyFlag2>524289</PropertyFlag2>
+		<CarrierExtension>0</CarrierExtension>
+		<SelfPropelledType>1</SelfPropelledType>
+		<MonitorType>0</MonitorType>
+		<MACH2XType>0</MACH2XType>
+		<Version>2</Version>
+		<MACH2XSplitFlag>0</MACH2XSplitFlag>
+		<SubRollerFlag>0</SubRollerFlag>
+		<LoopPresserType>0</LoopPresserType>
+		<CarrierNoDisp>0</CarrierNoDisp>
+		<MoveSinkerFlag>0</MoveSinkerFlag>
+		<RailNumType>2</RailNumType>
+		<ReductionCam>0</ReductionCam>
+		<SleeveSetupNeedleFlag>0</SleeveSetupNeedleFlag>
+		<PileKnitCamFlag>0</PileKnitCamFlag>
+		<NSPCarrierDelayType>0</NSPCarrierDelayType>
+		<MACH2XSTypeFlag>0</MACH2XSTypeFlag>
+		<NeedleSize>0</NeedleSize>
+		<InverseKnitFlag>0</InverseKnitFlag>
+		<InverseCamType>0</InverseCamType>
+		<CarrierOption2>0</CarrierOption2>
+		<CannotMCChg>1</CannotMCChg>
+	</MachineInfo>
+	<PatternType>3</PatternType>
+	<PAT_NUM>10</PAT_NUM>
+	<Exist>
+		<SizeData type="array" ID="0">1</SizeData>
+		<YarnColSet type="array" ID="0">1</YarnColSet>
+	</Exist>
+	<SizeEdit type="array" ID="0">
+		<ParamEnabled>0</ParamEnabled>
+		<PatternType>1</PatternType>
+		<JQColor>2</JQColor>
+		<JQType>0</JQType>
+		<MirrorProc>0</MirrorProc>
+		<RotationAngle>0</RotationAngle>
+		<HalfBodyType>0</HalfBodyType>
+		<Gage>15</Gage>
+		<LoopLength>6.40000009536743</LoopLength>
+		<PatWideOdd>0</PatWideOdd>
+		<InchDisp>0</InchDisp>
+		<GroundSizeDotX>32</GroundSizeDotX>
+		<GroundSizeDotY>40</GroundSizeDotY>
+		<GroundSizeLengthX>10.1599998474121</GroundSizeLengthX>
+		<GroundSizeLengthY>10.1599998474121</GroundSizeLengthY>
+		<RibType>1</RibType>
+		<RibSizeDotX>32</RibSizeDotX>
+		<RibSizeDotY>40</RibSizeDotY>
+		<RibSizeLengthX>10.1599998474121</RibSizeLengthX>
+		<RibSizeLengthY>10.1599998474121</RibSizeLengthY>
+		<RibHeight>2</RibHeight>
+		<RibCourse>14</RibCourse>
+		<RibInclude>0</RibInclude>
+		<RibSeparatedByAssistLine>1</RibSeparatedByAssistLine>
+		<PluralExec>0</PluralExec>
+		<WgRibSizeUse>0</WgRibSizeUse>
+		<GroundSize_PluralDotX>
+			<No type="array" ID="0">32</No>
+			<No type="array" ID="1">32</No>
+			<No type="array" ID="2">32</No>
+			<No type="array" ID="3">32</No>
+			<No type="array" ID="4">32</No>
+			<No type="array" ID="5">32</No>
+			<No type="array" ID="6">32</No>
+			<No type="array" ID="7">32</No>
+			<No type="array" ID="8">32</No>
+			<No type="array" ID="9">32</No>
+			<No type="array" ID="10">32</No>
+			<No type="array" ID="11">32</No>
+			<No type="array" ID="12">32</No>
+			<No type="array" ID="13">32</No>
+			<No type="array" ID="14">32</No>
+			<No type="array" ID="15">32</No>
+			<No type="array" ID="16">32</No>
+			<No type="array" ID="17">32</No>
+			<No type="array" ID="18">32</No>
+			<No type="array" ID="19">32</No>
+		</GroundSize_PluralDotX>
+		<GroundSize_PluralDotY>
+			<No type="array" ID="0">40</No>
+			<No type="array" ID="1">40</No>
+			<No type="array" ID="2">40</No>
+			<No type="array" ID="3">40</No>
+			<No type="array" ID="4">40</No>
+			<No type="array" ID="5">40</No>
+			<No type="array" ID="6">40</No>
+			<No type="array" ID="7">40</No>
+			<No type="array" ID="8">40</No>
+			<No type="array" ID="9">40</No>
+			<No type="array" ID="10">40</No>
+			<No type="array" ID="11">40</No>
+			<No type="array" ID="12">40</No>
+			<No type="array" ID="13">40</No>
+			<No type="array" ID="14">40</No>
+			<No type="array" ID="15">40</No>
+			<No type="array" ID="16">40</No>
+			<No type="array" ID="17">40</No>
+			<No type="array" ID="18">40</No>
+			<No type="array" ID="19">40</No>
+		</GroundSize_PluralDotY>
+		<GroundSize_PluralLengthX>
+			<No type="array" ID="0">10.1599998474121</No>
+			<No type="array" ID="1">10.1599998474121</No>
+			<No type="array" ID="2">10.1599998474121</No>
+			<No type="array" ID="3">10.1599998474121</No>
+			<No type="array" ID="4">10.1599998474121</No>
+			<No type="array" ID="5">10.1599998474121</No>
+			<No type="array" ID="6">10.1599998474121</No>
+			<No type="array" ID="7">10.1599998474121</No>
+			<No type="array" ID="8">10.1599998474121</No>
+			<No type="array" ID="9">10.1599998474121</No>
+			<No type="array" ID="10">10.1599998474121</No>
+			<No type="array" ID="11">10.1599998474121</No>
+			<No type="array" ID="12">10.1599998474121</No>
+			<No type="array" ID="13">10.1599998474121</No>
+			<No type="array" ID="14">10.1599998474121</No>
+			<No type="array" ID="15">10.1599998474121</No>
+			<No type="array" ID="16">10.1599998474121</No>
+			<No type="array" ID="17">10.1599998474121</No>
+			<No type="array" ID="18">10.1599998474121</No>
+			<No type="array" ID="19">10.1599998474121</No>
+		</GroundSize_PluralLengthX>
+		<GroundSize_PluralLengthY>
+			<No type="array" ID="0">10.1599998474121</No>
+			<No type="array" ID="1">10.1599998474121</No>
+			<No type="array" ID="2">10.1599998474121</No>
+			<No type="array" ID="3">10.1599998474121</No>
+			<No type="array" ID="4">10.1599998474121</No>
+			<No type="array" ID="5">10.1599998474121</No>
+			<No type="array" ID="6">10.1599998474121</No>
+			<No type="array" ID="7">10.1599998474121</No>
+			<No type="array" ID="8">10.1599998474121</No>
+			<No type="array" ID="9">10.1599998474121</No>
+			<No type="array" ID="10">10.1599998474121</No>
+			<No type="array" ID="11">10.1599998474121</No>
+			<No type="array" ID="12">10.1599998474121</No>
+			<No type="array" ID="13">10.1599998474121</No>
+			<No type="array" ID="14">10.1599998474121</No>
+			<No type="array" ID="15">10.1599998474121</No>
+			<No type="array" ID="16">10.1599998474121</No>
+			<No type="array" ID="17">10.1599998474121</No>
+			<No type="array" ID="18">10.1599998474121</No>
+			<No type="array" ID="19">10.1599998474121</No>
+		</GroundSize_PluralLengthY>
+		<TypeKnitting>0</TypeKnitting>
+		<PatternRepeatFlag>0</PatternRepeatFlag>
+		<PatternRepeatNum>2</PatternRepeatNum>
+		<DropType>-1</DropType>
+		<PatternId></PatternId>
+		<OrgPatId></OrgPatId>
+		<ReversePattFlag>0</ReversePattFlag>
+		<RibUse>1</RibUse>
+		<WideRibFlag>0</WideRibFlag>
+		<WideRibNum_Front>2</WideRibNum_Front>
+		<WideRibNum_Back>2</WideRibNum_Back>
+		<DoublingNum>0</DoublingNum>
+		<DoublingNum_L>0</DoublingNum_L>
+		<DoublingNum_R>0</DoublingNum_R>
+		<DoublingProc>0</DoublingProc>
+		<DoublingOutside>0</DoublingOutside>
+		<BaseRow>1</BaseRow>
+		<RibLeftFB>0</RibLeftFB>
+		<RibSizeSetHeight>1</RibSizeSetHeight>
+		<MultipleGauges_Ground>0</MultipleGauges_Ground>
+		<WasteSetupNum>0</WasteSetupNum>
+		<PluralArea_Count>20</PluralArea_Count>
+		<PluralArea type="array" ID="0">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="1">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="2">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="3">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="4">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="5">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="6">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="7">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="8">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="9">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="10">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="11">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="12">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="13">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="14">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="15">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="16">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="17">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="18">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<PluralArea type="array" ID="19">
+			<XS>-1</XS>
+			<YS>-1</YS>
+			<XE>-1</XE>
+			<YE>-1</YE>
+		</PluralArea>
+		<BelowAH_AdjustProc>0</BelowAH_AdjustProc>
+		<AH_AdjustProc>0</AH_AdjustProc>
+		<Collar_AdjustProc>0</Collar_AdjustProc>
+		<GageMakeMode>0</GageMakeMode>
+		<MirrorAdjust>0</MirrorAdjust>
+		<GMakeOutLineChange>0</GMakeOutLineChange>
+		<GotoOutLineEdit>0</GotoOutLineEdit>
+		<GageMenuValue>0</GageMenuValue>
+		<GroundSize_GageMakeDotX>-1</GroundSize_GageMakeDotX>
+		<GroundSize_GageMakeDotY>-1</GroundSize_GageMakeDotY>
+		<GroundSize_GageMakeLengthX>-1</GroundSize_GageMakeLengthX>
+		<GroundSize_GageMakeLengthY>-1</GroundSize_GageMakeLengthY>
+		<ArmPos_LEFT_X>-1</ArmPos_LEFT_X>
+		<ArmPos_LEFT_Y>-1</ArmPos_LEFT_Y>
+		<ArmPos_RIGHT_X>-1</ArmPos_RIGHT_X>
+		<ArmPos_RIGHT_Y>-1</ArmPos_RIGHT_Y>
+		<ShoulderPos_LEFT_X>-1</ShoulderPos_LEFT_X>
+		<ShoulderPos_LEFT_Y>-1</ShoulderPos_LEFT_Y>
+		<ShoulderPos_RIGHT_X>-1</ShoulderPos_RIGHT_X>
+		<ShoulderPos_RIGHT_Y>-1</ShoulderPos_RIGHT_Y>
+		<ShoulderPosSetType>-1</ShoulderPosSetType>
+		<SleeveCapPos_LEFT_X>-1</SleeveCapPos_LEFT_X>
+		<SleeveCapPos_LEFT_Y>-1</SleeveCapPos_LEFT_Y>
+		<SleeveCapPos_RIGHT_X>-1</SleeveCapPos_RIGHT_X>
+		<SleeveCapPos_RIGHT_Y>-1</SleeveCapPos_RIGHT_Y>
+		<SleeveCapPosSetType>-1</SleeveCapPosSetType>
+		<SpecialKnitting_SleeveCapPos_LEFT_X>-1</SpecialKnitting_SleeveCapPos_LEFT_X>
+		<SpecialKnitting_SleeveCapPos_LEFT_Y>-1</SpecialKnitting_SleeveCapPos_LEFT_Y>
+		<SpecialKnitting_SleeveCapPos_RIGHT_X>-1</SpecialKnitting_SleeveCapPos_RIGHT_X>
+		<SpecialKnitting_SleeveCapPos_RIGHT_Y>-1</SpecialKnitting_SleeveCapPos_RIGHT_Y>
+		<SpecialKnitting_SleeveCapPosSetType>-1</SpecialKnitting_SleeveCapPosSetType>
+		<Sunpou_Initial_GroundSize_Flag>0</Sunpou_Initial_GroundSize_Flag>
+		<Sunpou_Initial_GroundSizeDotX>1</Sunpou_Initial_GroundSizeDotX>
+		<Sunpou_Initial_GroundSizeDotY>1</Sunpou_Initial_GroundSizeDotY>
+		<Sunpou_Initial_GroundSizeLengthX>0.100000001490116</Sunpou_Initial_GroundSizeLengthX>
+		<Sunpou_Initial_GroundSizeLengthY>0.100000001490116</Sunpou_Initial_GroundSizeLengthY>
+		<PatternMake_GroundSizeDotX>-1</PatternMake_GroundSizeDotX>
+		<PatternMake_GroundSizeDotY>-1</PatternMake_GroundSizeDotY>
+		<PatternMake_GroundSizeLengthX>-1</PatternMake_GroundSizeLengthX>
+		<PatternMake_GroundSizeLengthY>-1</PatternMake_GroundSizeLengthY>
+		<ShapeGageInputProcess>0</ShapeGageInputProcess>
+		<RibCourse2>14</RibCourse2>
+		<RibHeight2>2</RibHeight2>
+		<HagiCount>6</HagiCount>
+		<HagiLastWidthSet>1</HagiLastWidthSet>
+		<HagiLastWidthCourse>6</HagiLastWidthCourse>
+		<HagiShapeCourseNum>0</HagiShapeCourseNum>
+		<HagiXPitchNum>2</HagiXPitchNum>
+		<HagiSlideNum>2</HagiSlideNum>
+		<HagiSeamType>0</HagiSeamType>
+		<HagiPatInitMode>0</HagiPatInitMode>
+		<HagiSeamAllowanceNum>0</HagiSeamAllowanceNum>
+		<HagiSlideNoramalOverlap>0</HagiSlideNoramalOverlap>
+		<Hagiinterval>0</Hagiinterval>
+		<HagiintervalNum>-1</HagiintervalNum>
+		<HagiCreateMode>0</HagiCreateMode>
+		<HagiSeamType2>0</HagiSeamType2>
+		<HagiCount2>6</HagiCount2>
+		<LoopSimSizeDotX>
+			<No type="array" ID="0">36</No>
+			<No type="array" ID="1">36</No>
+			<No type="array" ID="2">36</No>
+			<No type="array" ID="3">36</No>
+			<No type="array" ID="4">36</No>
+			<No type="array" ID="5">36</No>
+			<No type="array" ID="6">36</No>
+			<No type="array" ID="7">36</No>
+			<No type="array" ID="8">36</No>
+			<No type="array" ID="9">36</No>
+			<No type="array" ID="10">36</No>
+			<No type="array" ID="11">36</No>
+			<No type="array" ID="12">36</No>
+			<No type="array" ID="13">36</No>
+			<No type="array" ID="14">36</No>
+			<No type="array" ID="15">36</No>
+			<No type="array" ID="16">36</No>
+			<No type="array" ID="17">36</No>
+			<No type="array" ID="18">36</No>
+			<No type="array" ID="19">36</No>
+			<No type="array" ID="20">36</No>
+		</LoopSimSizeDotX>
+		<LoopSimSizeDotY>
+			<No type="array" ID="0">46</No>
+			<No type="array" ID="1">46</No>
+			<No type="array" ID="2">46</No>
+			<No type="array" ID="3">46</No>
+			<No type="array" ID="4">46</No>
+			<No type="array" ID="5">46</No>
+			<No type="array" ID="6">46</No>
+			<No type="array" ID="7">46</No>
+			<No type="array" ID="8">46</No>
+			<No type="array" ID="9">46</No>
+			<No type="array" ID="10">46</No>
+			<No type="array" ID="11">46</No>
+			<No type="array" ID="12">46</No>
+			<No type="array" ID="13">46</No>
+			<No type="array" ID="14">46</No>
+			<No type="array" ID="15">46</No>
+			<No type="array" ID="16">46</No>
+			<No type="array" ID="17">46</No>
+			<No type="array" ID="18">46</No>
+			<No type="array" ID="19">46</No>
+			<No type="array" ID="20">70</No>
+		</LoopSimSizeDotY>
+		<LoopSimSizeLengthX>
+			<No type="array" ID="0">10</No>
+			<No type="array" ID="1">10</No>
+			<No type="array" ID="2">10</No>
+			<No type="array" ID="3">10</No>
+			<No type="array" ID="4">10</No>
+			<No type="array" ID="5">10</No>
+			<No type="array" ID="6">10</No>
+			<No type="array" ID="7">10</No>
+			<No type="array" ID="8">10</No>
+			<No type="array" ID="9">10</No>
+			<No type="array" ID="10">10</No>
+			<No type="array" ID="11">10</No>
+			<No type="array" ID="12">10</No>
+			<No type="array" ID="13">10</No>
+			<No type="array" ID="14">10</No>
+			<No type="array" ID="15">10</No>
+			<No type="array" ID="16">10</No>
+			<No type="array" ID="17">10</No>
+			<No type="array" ID="18">10</No>
+			<No type="array" ID="19">10</No>
+			<No type="array" ID="20">10</No>
+		</LoopSimSizeLengthX>
+		<LoopSimSizeLengthY>
+			<No type="array" ID="0">10</No>
+			<No type="array" ID="1">10</No>
+			<No type="array" ID="2">10</No>
+			<No type="array" ID="3">10</No>
+			<No type="array" ID="4">10</No>
+			<No type="array" ID="5">10</No>
+			<No type="array" ID="6">10</No>
+			<No type="array" ID="7">10</No>
+			<No type="array" ID="8">10</No>
+			<No type="array" ID="9">10</No>
+			<No type="array" ID="10">10</No>
+			<No type="array" ID="11">10</No>
+			<No type="array" ID="12">10</No>
+			<No type="array" ID="13">10</No>
+			<No type="array" ID="14">10</No>
+			<No type="array" ID="15">10</No>
+			<No type="array" ID="16">10</No>
+			<No type="array" ID="17">10</No>
+			<No type="array" ID="18">10</No>
+			<No type="array" ID="19">10</No>
+			<No type="array" ID="20">10</No>
+		</LoopSimSizeLengthY>
+		<LoopSimSizeFlag>0</LoopSimSizeFlag>
+	</SizeEdit>
+	<NarrowDefault type="array" ID="0">
+		<CurveType>
+			<Body>3</Body>
+			<ArmHole>3</ArmHole>
+			<Collar>3</Collar>
+			<BodyWide>1</BodyWide>
+			<ArmHoleWide>1</ArmHoleWide>
+		</CurveType>
+		<XPitch>
+			<Body>2</Body>
+			<ArmHole>2</ArmHole>
+			<Collar>2</Collar>
+			<BodyWide>1</BodyWide>
+			<ArmHoleWide>1</ArmHoleWide>
+		</XPitch>
+		<YMin>
+			<Body>2</Body>
+			<ArmHole>2</ArmHole>
+			<Collar>2</Collar>
+			<BodyWide>2</BodyWide>
+			<ArmHoleWide>2</ArmHoleWide>
+		</YMin>
+		<OriginalLine>
+			<Use>0</Use>
+		</OriginalLine>
+		<AssistLine>
+			<Use>0</Use>
+			<UseColor>0</UseColor>
+		</AssistLine>
+	</NarrowDefault>
+	<YarnColSetData type="array" ID="0">
+		<ColorNo>
+			<Pos type="array" ID="0">-1</Pos>
+			<Pos type="array" ID="1">-1</Pos>
+			<Pos type="array" ID="2">-1</Pos>
+			<Pos type="array" ID="3">-1</Pos>
+			<Pos type="array" ID="4">-1</Pos>
+			<Pos type="array" ID="5">-1</Pos>
+			<Pos type="array" ID="6">-1</Pos>
+			<Pos type="array" ID="7">-1</Pos>
+			<Pos type="array" ID="8">-1</Pos>
+			<Pos type="array" ID="9">-1</Pos>
+			<Pos type="array" ID="10">-1</Pos>
+			<Pos type="array" ID="11">-1</Pos>
+			<Pos type="array" ID="12">-1</Pos>
+			<Pos type="array" ID="13">-1</Pos>
+			<Pos type="array" ID="14">-1</Pos>
+			<Pos type="array" ID="15">-1</Pos>
+			<Pos type="array" ID="16">-1</Pos>
+			<Pos type="array" ID="17">-1</Pos>
+			<Pos type="array" ID="18">-1</Pos>
+			<Pos type="array" ID="19">-1</Pos>
+			<Pos type="array" ID="20">-1</Pos>
+			<Pos type="array" ID="21">-1</Pos>
+			<Pos type="array" ID="22">-1</Pos>
+			<Pos type="array" ID="23">-1</Pos>
+			<Pos type="array" ID="24">-1</Pos>
+			<Pos type="array" ID="25">-1</Pos>
+			<Pos type="array" ID="26">-1</Pos>
+			<Pos type="array" ID="27">-1</Pos>
+			<Pos type="array" ID="28">-1</Pos>
+			<Pos type="array" ID="29">-1</Pos>
+			<Pos type="array" ID="30">-1</Pos>
+			<Pos type="array" ID="31">-1</Pos>
+			<Pos type="array" ID="32">-1</Pos>
+			<Pos type="array" ID="33">-1</Pos>
+			<Pos type="array" ID="34">-1</Pos>
+			<Pos type="array" ID="35">-1</Pos>
+			<Pos type="array" ID="36">-1</Pos>
+			<Pos type="array" ID="37">-1</Pos>
+			<Pos type="array" ID="38">-1</Pos>
+			<Pos type="array" ID="39">-1</Pos>
+		</ColorNo>
+		<JacquardMethod>0</JacquardMethod>
+		<MaxJump>20</MaxJump>
+		<LadderBack>0</LadderBack>
+		<FixListCount>0</FixListCount>
+		<PlatingListCount>0</PlatingListCount>
+		<ColorListCount>0</ColorListCount>
+		<Version>0</Version>
+	</YarnColSetData>
+	<Union>0</Union>
+	<TogoDownConvertData>0</TogoDownConvertData>
+	<TogoInputMode>0</TogoInputMode>
+	<SHShapeMode>-1</SHShapeMode>
+	<SHStyle>-1</SHStyle>
+	<AppVersion>R-16.A</AppVersion>
+	<TogoVersion>2</TogoVersion>
+	<LoadTable>
+		<UnderVersion>
+			<R>
+				<Version>9</Version>
+				<MessageType>0</MessageType>
+				<LoadType>1</LoadType>
+			</R>
+		</UnderVersion>
+	</LoadTable>
+	<PackageDev>
+		<WGDevIndex>-1</WGDevIndex>
+		<IsGousei_Paint>1</IsGousei_Paint>
+		<UseAPEX3Func>0</UseAPEX3Func>
+		<WGUserADDPack_CheckVersion>1</WGUserADDPack_CheckVersion>
+		<IsR1BARNOTINIT>1</IsR1BARNOTINIT>
+	</PackageDev>
+	<MiniEditArea_Structure>
+		<xs type="array" ID="0">0</xs>
+		<ys type="array" ID="0">0</ys>
+		<xe type="array" ID="0">171</xe>
+		<ye type="array" ID="0">243</ye>
+		<xs type="array" ID="1">0</xs>
+		<ys type="array" ID="1">0</ys>
+		<xe type="array" ID="1">171</xe>
+		<ye type="array" ID="1">243</ye>
+	</MiniEditArea_Structure>
+	<MiniEditArea_Color>
+		<xs type="array" ID="0">0</xs>
+		<ys type="array" ID="0">0</ys>
+		<xe type="array" ID="0">171</xe>
+		<ye type="array" ID="0">243</ye>
+		<xs type="array" ID="1">0</xs>
+		<ys type="array" ID="1">0</ys>
+		<xe type="array" ID="1">171</xe>
+		<ye type="array" ID="1">243</ye>
+	</MiniEditArea_Color>
+	<MiniEditArea_Yarn>
+		<xs type="array" ID="0">0</xs>
+		<ys type="array" ID="0">0</ys>
+		<xe type="array" ID="0">171</xe>
+		<ye type="array" ID="0">243</ye>
+		<xs type="array" ID="1">0</xs>
+		<ys type="array" ID="1">0</ys>
+		<xe type="array" ID="1">171</xe>
+		<ye type="array" ID="1">243</ye>
+	</MiniEditArea_Yarn>
+	<MiniEditArea_Field>
+		<xs type="array" ID="0">-9999999</xs>
+		<ys type="array" ID="0">-9999999</ys>
+		<xe type="array" ID="0">-9999999</xe>
+		<ye type="array" ID="0">-9999999</ye>
+		<xs type="array" ID="1">-9999999</xs>
+		<ys type="array" ID="1">-9999999</ys>
+		<xe type="array" ID="1">-9999999</xe>
+		<ye type="array" ID="1">-9999999</ye>
+	</MiniEditArea_Field>
+	<MiniEditArea_Custom>
+		<xs type="array" ID="0">-9999999</xs>
+		<ys type="array" ID="0">-9999999</ys>
+		<xe type="array" ID="0">-9999999</xe>
+		<ye type="array" ID="0">-9999999</ye>
+		<xs type="array" ID="1">-9999999</xs>
+		<ys type="array" ID="1">-9999999</ys>
+		<xe type="array" ID="1">-9999999</xe>
+		<ye type="array" ID="1">-9999999</ye>
+	</MiniEditArea_Custom>
+	<MiniEditArea_Packed>
+		<xs>0</xs>
+		<xe>796</xe>
+		<ys>0</ys>
+		<ye>972</ye>
+	</MiniEditArea_Packed>
+	<MiniEditArea_SPaint>
+		<xs>0</xs>
+		<xe>469</xe>
+		<ys>0</ys>
+		<ye>1139</ye>
+	</MiniEditArea_SPaint>
+	<MiniEditAreaMarginRight_Packed>256</MiniEditAreaMarginRight_Packed>
+	<MiniEditAreaMarginRight_SPaint>0</MiniEditAreaMarginRight_SPaint>
+	<MiniPkAutoStoreY>568</MiniPkAutoStoreY>
+	<MiniLastDevParts>3</MiniLastDevParts>
+	<DDE_FromDesign>0</DDE_FromDesign>
+	<ConvertKPPrj>0</ConvertKPPrj>
+	<WGAllPackedLayerUse>0</WGAllPackedLayerUse>
+	<StructLayerConfigData_WG_KP>
+		<AreaProc>0</AreaProc>
+		<ColRevCheck>0</ColRevCheck>
+		<LayerMaskCT>0,175,179,181,199,209,219,228,239,241,242,243,244,250,251,252,253,254,255</LayerMaskCT>
+	</StructLayerConfigData_WG_KP>
+	<StructLayerConfigData_WG_SP>
+		<AreaProc>0</AreaProc>
+		<ColRevCheck>0</ColRevCheck>
+		<LayerMaskCT>0</LayerMaskCT>
+	</StructLayerConfigData_WG_SP>
+</KnitProject>
