@@ -13,3 +13,5 @@ This repository contains:
 ![knit](https://github.com/FiberCircuits/hardware/assets/142898164/cfde057d-8d4a-4b54-8cfa-2d5eeea68f60)
 
 (work in progress)
+
+[![Hippocratic License HL3-CL-LAW-MIL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-CL-LAW-MIL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/cl-law-mil.html)
