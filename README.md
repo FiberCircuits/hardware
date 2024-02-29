@@ -2,7 +2,7 @@
 
 This repository contains:
 
-1) folders with [Kicad]([url](https://www.kicad.org/)) files (imu_fiber + leds_fiber):
+1) folders with [Kicad]([url](https://www.kicad.org/)) files (quick previews: [imu_fiber](https://kicanvas.org/?github=https://github.com/FiberCircuits/hardware/tree/main/imu_fiber/kicad_files) / [leds_fiber](https://kicanvas.org/?github=https://github.com/FiberCircuits/hardware/tree/main/leds_fiber/kicad_files)):
 
 ![07_kicad](https://github.com/FiberCircuits/hardware/assets/142898164/25bb4e09-f68d-46fd-bba5-62ac4485a9c3)
 
